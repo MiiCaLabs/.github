@@ -1,3 +1,5 @@
+<img width="1774" height="887" alt="MiiCaLabs-banner" src="https://github.com/user-attachments/assets/e95013db-e016-4adf-89b7-dd8708b3c2e0" />
+
 # MiiCaLabs
 
 MiiCaLabs is an independent product lab led by **Harivonjy Rica**, a Certified Zoho Developer and software engineer.
