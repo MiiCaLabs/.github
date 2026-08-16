@@ -6,8 +6,6 @@ We work where business operations meet software engineering: Zoho CRM workflows,
 
 MiiCaLabs is founded by [Harivonjy Rica](https://github.com/h-rica), a software engineer and Certified Zoho Consultant based in Madagascar.
 
-[Founder GitHub](https://github.com/h-rica) · [LinkedIn](https://www.linkedin.com/in/mampionona-tinasoa-rica-harivonjy-b27b36285/)
-
 ## What we build
 
 - **Zoho developer tools:** extensions, Catalyst applications, integrations, automation, and data-quality tooling
